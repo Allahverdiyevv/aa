@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\bin\Debug\net6.0\13 sınıf Imtahan.exe
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\bin\Debug\net6.0\13 sınıf Imtahan.deps.json
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\bin\Debug\net6.0\13 sınıf Imtahan.runtimeconfig.json
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\bin\Debug\net6.0\13 sınıf Imtahan.dll
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\bin\Debug\net6.0\13 sınıf Imtahan.pdb
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\13 sınıf Imtahan.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\13 sınıf Imtahan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\13 sınıf Imtahan.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\13 sınıf Imtahan.AssemblyInfo.cs
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\13 sınıf Imtahan.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\13 sınıf Imtahan.dll
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\refint\13 sınıf Imtahan.dll
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\13 sınıf Imtahan.pdb
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\13 sınıf Imtahan.genruntimeconfig.cache
+C:\Users\Dell\Desktop\13\13 sınıf Imtahan\13 sınıf Imtahan\obj\Debug\net6.0\ref\13 sınıf Imtahan.dll
